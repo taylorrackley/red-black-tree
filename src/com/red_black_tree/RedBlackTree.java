@@ -2,7 +2,7 @@ package com.red_black_tree;
 
 import java.util.Random;
 
-public class BinaryTree {
+public class RedBlackTree {
 	
 	static Node root;
 	
